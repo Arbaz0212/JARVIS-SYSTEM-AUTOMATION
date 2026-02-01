@@ -35,6 +35,8 @@ Frontend (UI + Voice)
 Ollama LLM (Local AI Brain)
 
 ---
+Conclusion:
+Jarvis demonstrates how a fully local, voice-driven AI assistant can be built with intelligent responses, wake-word interaction, and contextual understanding—without relying on paid cloud APIs. This project showcases practical GenAI integration, system design, and real-time human–AI interaction.
 
 ## ⚙️ Setup Instructions
 
@@ -61,8 +63,7 @@ Custom voice engine
 Authentication system
 
 Mobile app version
-Conclusion:
-Jarvis demonstrates how a fully local, voice-driven AI assistant can be built with intelligent responses, wake-word interaction, and contextual understanding—without relying on paid cloud APIs. This project showcases practical GenAI integration, system design, and real-time human–AI interaction.
+
 
 
 
